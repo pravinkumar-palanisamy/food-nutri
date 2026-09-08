@@ -178,7 +178,7 @@ def find_nutrition(content: str):
 
 
 if __name__ == "__main__":
-    print("Hello - I am a nutrition analyzer and provides detailed macro, micro nutrition details baded on the food intake. \nSo please provide the food and its quantity to analyze. \nExample: Chicken 200g, French fries medium\n")
+    print("Hello - I am a nutrition analyzer and provides detailed macro, micro nutrition details based on the food intake. \nSo please provide the food and its quantity to analyze. \nExample: Chicken 200g, French fries medium\n")
     content = input("Please provide the food and its quantity: ")
     print("Processing nutrition...")
     res = find_nutrition(content)
