@@ -1,0 +1,65 @@
+{
+  "message": "Nutrition analysis for 200g of chicken (cooked, skinless breast)",
+  "note": "Values are approximate and based on standard cooked chicken breast without added oils or seasonings",
+  "total_calories": 330,
+  "macro_nutrition": [
+    {
+      "type": "Protein",
+      "percentage": 46,
+      "quantity": 62
+    },
+    {
+      "type": "Fat",
+      "percentage": 11,
+      "quantity": 4
+    },
+    {
+      "type": "Carbohydrates",
+      "percentage": 0,
+      "quantity": 0
+    },
+    {
+      "type": "Fiber",
+      "percentage": 0,
+      "quantity": 0
+    }
+  ],
+  "micro_nutrition": [
+    {
+      "type": "Vitamin B6",
+      "percentage": 65,
+      "quantity": 1.3,
+      "message": "Essential for brain development and immune function"
+    },
+    {
+      "type": "Vitamin B12",
+      "percentage": 19,
+      "quantity": 0.6,
+      "message": "Important for red blood cell formation and nerve function"
+    },
+    {
+      "type": "Niacin (B3)",
+      "percentage": 80,
+      "quantity": 12.8,
+      "message": "Supports energy metabolism and DNA repair"
+    },
+    {
+      "type": "Selenium",
+      "percentage": 75,
+      "quantity": 41.6,
+      "message": "Powerful antioxidant that protects cells"
+    },
+    {
+      "type": "Phosphorus",
+      "percentage": 30,
+      "quantity": 300,
+      "message": "Important for bone health and energy production"
+    },
+    {
+      "type": "Iron",
+      "percentage": 7,
+      "quantity": 1.3,
+      "message": "Essential for oxygen transport in blood"
+    }
+  ]
+}
