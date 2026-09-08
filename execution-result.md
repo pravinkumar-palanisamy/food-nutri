@@ -209,6 +209,31 @@ Processing nutrition...
 }
 ```
 
+## Negative Case - Run
+
+```
+
+Welcome to your Nutrition Analyzer!
+
+Get a detailed breakdown of your macronutrients and micronutrients instantly. Simply enter the foods you ate and their quantities below.
+
+Example: Chicken breast 200g, medium French fries, 1 large egg
+    
+Please provide the food and its quantity: cup
+Processing nutrition...
+[ParsedTextBlock[~ResponseFormatT](citations=None, text='{"message": "Invalid input. Please provide food items or ingredients for nutrition analysis.", "note": "", "total_calories": 0, "food_items": [], "macro_nutrition": [], "micro_nutrition": [], "error": "Invalid input. Please provide food items or ingredients for nutrition analysis."}', type='text', parsed_output=Nutrients(message='Invalid input. Please provide food items or ingredients for nutrition analysis.', note='', total_calories=0, food_items=[], macro_nutrition=[], micro_nutrition=[], error='Invalid input. Please provide food items or ingredients for nutrition analysis.'))]
+{
+    "message": "Invalid input. Please provide food items or ingredients for nutrition analysis.",
+    "note": "",
+    "total_calories": 0,
+    "food_items": [],
+    "macro_nutrition": [],
+    "micro_nutrition": [],
+    "error": "Invalid input. Please provide food items or ingredients for nutrition analysis."
+}
+
+```
+
 ## Prompt V1 -
 ### Run 1:
 
